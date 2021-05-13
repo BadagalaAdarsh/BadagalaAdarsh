@@ -2,8 +2,9 @@
 
 
 <div align="top">
-  <img align="right" src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" width="450" height="450" />
+  <img align="right" src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" width="300" height="300" />
 </div>
+<br>
 
 
 Here are some ideas to get you started:
