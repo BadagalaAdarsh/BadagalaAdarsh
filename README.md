@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
+## Skills
+* :atom: hai
+
 <div align="center">
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadagalaAdarsh&show_icons=true&theme=highcontrast)
