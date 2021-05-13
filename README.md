@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <h2>GitHub Stats </h2>
 </div>
 
-<hr>
+
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <h2>Top Languages</h2>
 </div>
 
-<hr>
+
 
 <div align="center">
 
