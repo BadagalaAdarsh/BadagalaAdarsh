@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning ... Data Science
 - 👨‍ I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degree
 - 🚀 I'm also working as a Student Co-ordinator for ACM Student Chapter GMRIT
-- thinking Areas of Intrest: Machine Learning, Deep Learning, Computer Vision
-- 🤔 I’m looking for help with ... Django, Flask
+- 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision
+- 🥺 I’m looking for help with ... Django, Flask
 - 📫 How to reach me: ... badarsh2001@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am a painter, editor and a penman
