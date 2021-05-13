@@ -1,6 +1,10 @@
 ### Hi there 👋 I am Adarsh Badagala
 
 
+<div align="top">
+  <img align="right" src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" />
+</div>
+
 
 Here are some ideas to get you started:
 
