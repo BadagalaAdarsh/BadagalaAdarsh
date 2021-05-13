@@ -7,7 +7,7 @@
 </div>
 
 
-![counter](https://[https://pipedream.com/@/p_G6CNmN/edit?copy=true].m.pipedream.net)
+![](https://komarev.com/ghpvc/?username=BadagalaAdarsh&color=green)
 
 
 - 🌱 I’m currently learning ... Data Science
