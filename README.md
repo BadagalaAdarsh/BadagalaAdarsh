@@ -7,7 +7,7 @@
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=BadagalaAdarsh&color=green)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badagalaadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="badagalaadarsh" /> </p>
 
 
 - 🌱 I’m currently learning ... Data Science
@@ -49,7 +49,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badagalaadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="badagalaadarsh" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/AdarshBadagala" target="blank"><img src="https://img.shields.io/twitter/follow/adarshbadagala?logo=twitter&style=for-the-badge" alt="adarshbadagala" /></a> </p>
 
