@@ -5,11 +5,7 @@
 <div align="top">
   <img align="right" src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" width="300" height="300" />
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 Here are some ideas to get you started:
@@ -20,7 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
   <h2>GitHub Stats </h2>
