@@ -31,6 +31,8 @@
 
 
 <div align="center">
+  
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badagalaadarsh&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="badagalaadarsh" /></p>
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadagalaAdarsh&show_icons=true&theme=highcontrast)
 </div>
