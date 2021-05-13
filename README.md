@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
 
+<hr>
 
 <div align="center">
 
