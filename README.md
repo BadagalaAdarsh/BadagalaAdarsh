@@ -11,7 +11,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadagalaAdarsh&count_private=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadagalaAdarsh&show_icons=true)
 
