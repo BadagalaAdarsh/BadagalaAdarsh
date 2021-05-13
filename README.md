@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
-<div align="top">
-  <img align="right" src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" />
-</div>
+
 
 <div align="center">
   <h2>GitHub Stats </h2>
