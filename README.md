@@ -7,7 +7,7 @@
 </div>
 
 
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+![counter](https://[https://pipedream.com/@/p_G6CNmN/edit?copy=true].m.pipedream.net)
 
 
 - 🌱 I’m currently learning ... Data Science
