@@ -3,7 +3,7 @@
 
 
 <div align="top">
-  <img align="right" src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" width="300" height="300" />
+  <img align="right" src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" width="250" height="250" />
 </div>
 
 
@@ -11,13 +11,15 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... Data Science
+- 👨‍ I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degree
+- 🚀 I'm also working as a Student Co-ordinator for ACM Student Chapter GMRIT
 - 🤔 I’m looking for help with ... Django, Flask
 - 📫 How to reach me: ... badarsh2001@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
 <br>
-
+<br>
 
 <div align="center">
   <h2>GitHub Stats </h2>
