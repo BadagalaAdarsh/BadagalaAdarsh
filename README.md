@@ -51,21 +51,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badagalaadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="badagalaadarsh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adarshbadagala" target="blank"><img src="https://img.shields.io/twitter/follow/adarshbadagala?logo=twitter&style=for-the-badge" alt="adarshbadagala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AdarshBadagala" target="blank"><img src="https://img.shields.io/twitter/follow/adarshbadagala?logo=twitter&style=for-the-badge" alt="adarshbadagala" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adarshbadagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="adarshbadagala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarsh badagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="adarsh badagala" height="30" width="40" /></a>
-<a href="https://kaggle.com/adarsh badagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="adarsh badagala" height="30" width="40" /></a>
-<a href="https://fb.com/adarsh badagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="adarsh badagala" height="30" width="40" /></a>
-<a href="https://instagram.com/adarsh_badagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="adarsh_badagala" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adarsh_2700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adarsh_2700" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/badagala adarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="badagala adarsh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/adarsh_badagala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="adarsh_badagala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adarsh_badagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="adarsh_badagala" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@adarsh_badagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@adarsh_badagala" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adarsh badagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="adarsh badagala" height="30" width="40" /></a>
+<a href="https://twitter.com/AdarshBadagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="adarshbadagala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adarsh-badagala-2440b2192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="adarsh badagala" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/badagalaadarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="adarsh badagala" height="30" width="40" /></a>
+<a href="https://www.facebook.com/badagala.adarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="adarsh badagala" height="30" width="40" /></a>
+<a href="https://www.instagram.com/adarsh_badagala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="adarsh_badagala" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adarsh_2700 target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adarsh_2700" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/badarsh2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="badagala adarsh" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Adarsh_Badagala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="adarsh_badagala" height="30" width="40" /></a>
+<a href="https://leetcode.com/Adarsh_Badagala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="adarsh_badagala" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Adarsh_Badagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@adarsh_badagala" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/badarsh2001/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="adarsh badagala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
