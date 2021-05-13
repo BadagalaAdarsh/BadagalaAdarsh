@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 <div align="center">
   <h2>GitHub Stats </h2>
