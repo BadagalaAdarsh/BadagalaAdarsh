@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
 
-<img src="https://emaillogin.info/wp-content/uploads/2020/12/my-aol-mail-login-screen-name.gif" />
+<img src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" />
 
 
 <div align="center">
