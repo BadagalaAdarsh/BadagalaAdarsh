@@ -10,10 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
-<a>
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadagalaAdarsh&show_icons=true&theme=highcontrast)
 
-  <img align="center" src="![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadagalaAdarsh&show_icons=true&theme=highcontrast)"/>
-</a?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadagalaAdarsh&layout=compact&langs_count=10&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
