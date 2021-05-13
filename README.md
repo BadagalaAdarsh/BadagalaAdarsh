@@ -1,10 +1,12 @@
-### Hi there 👋 I am Adarsh Badagala
-## I am a Self Taught Programmer
+## Hi there 👋 I am Adarsh Badagala
+### I am a Self Taught Programmer
 
 
 <div align="top">
   <img align="right" src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" width="300" height="300" />
 </div>
+<br>
+<br>
 <br>
 <br>
 <br>
