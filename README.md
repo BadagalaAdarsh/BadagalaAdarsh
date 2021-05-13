@@ -11,11 +11,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
 
+<div align="center">
+  ### GitHub Stats
+</div>
+
 <hr>
 
 <div align="center">
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadagalaAdarsh&show_icons=true&theme=highcontrast)
+</div>
+
+<div align="center">
+  ### Top Languages
 </div>
 
 <hr>
