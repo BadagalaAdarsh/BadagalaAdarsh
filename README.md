@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  ###GitHub Stats
+  <h2>GitHub Stats </h2>
 </div>
 
 <hr>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  ###Top Languages
+  <h2>Top Languages</h2>
 </div>
 
 <hr>
