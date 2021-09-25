@@ -6,7 +6,7 @@
 </head>
 
 <div align="top">
-  <img align="right" src="https://github.com/BadagalaAdarsh/SomeshSir/blob/master/ezgif.com-gif-maker.gif" width="300" height="300" />
+  <img align="right" src="https://github.com/BadagalaAdarsh/Practice/blob/main/ezgif.com-gif-maker.gif" width="300" height="300" />
 </div>
 
 
@@ -50,7 +50,8 @@
 </div>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badagalaadarsh&theme=highcontrast" alt="badagalaadarsh" /></p>
+  <p><
+    align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badagalaadarsh&theme=highcontrast" alt="badagalaadarsh" /></p>
 </div>
 
 ## 🛠️ My favorite tools
