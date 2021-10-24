@@ -50,9 +50,14 @@
 </div>
 
 <div align="center">
-  <p><
-    align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badagalaadarsh&theme=highcontrast" alt="badagalaadarsh" /></p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badagalaadarsh&theme=highcontrast)](https://git.io/streak-stats)
+
 </div>
+
+
+
 
 ## 🛠️ My favorite tools
 
