@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/AdarshBadagala" target="blank"><img src="https://img.shields.io/twitter/follow/adarshbadagala?logo=twitter&style=for-the-badge" alt="adarshbadagala" /></a> </p>
 
-- 🌱 I’m currently learning ... Data Science
+- 🌱 I’m currently learning ..... Data Science
 - 👨‍ I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degree
 - 🚀 I'm also working as a Student Co-ordinator for ACM Student Chapter GMRIT
 - 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision
