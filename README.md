@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Adarsh Badagala
-### I am a Self Taught Programmer
+### I love problem solving
 
 <head>
   <meta name="google-site-verification" content="bOSwZX5aVstnGihrRD5DBFOw3-RA-aksKom-rLEhzCs" />
